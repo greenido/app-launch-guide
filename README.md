@@ -17,10 +17,11 @@ To combine the concrete product development schedule with an equally concrete bu
 The outline below will combine marketing and product deadlines into a single timeline, so that you can plan for both the marketing and product cycle in tandem.
 
 ## Who
-This is a fork from [Adam Wulf](https://twitter.com/adamwulf) repo.
-I wanted to take it more to the monetization side of things (which I belive are critical to the sucess of any venture) and to focus on the web and less on native apps.
+I'm [Ido Green](http://ido-green.appspot.com) - currently having fun as Developer Advocate at Google Chrome.
+This repo is a fork from [Adam Wulf](https://twitter.com/adamwulf) repo who did a great work over there.
 
-This guide is a collection of lessons learned.
+## Why
+I wanted to take it more to the monetization side of things (which I belive are critical to the sucess of any startup) and to focus on the web and new wep apps. This will be based mostly from lessons learned.
 
 ## What
 This guide goes through all of the necessary steps for validating, building, marketing, and launching your product, specifically focused on app dev. In particular, this guide covers:
@@ -28,14 +29,14 @@ This guide goes through all of the necessary steps for validating, building, mar
 0. Helpful books and resources
 1. Narrowing down your app idea
 2. Validating that idea
-3. Defining your business model
+3. Defining your *business model*
 4. Validating with a prototype
 5. Building your app
 6. Launch!
 7. Post-launch growth
 
 ## Contribute
-I missed some stuff! I'm only one guy with my own limited experience. If you see that I've missed some info or have helpful resources to share, submit an issue or PR, or just [get in touch](http://twitter.com/adamwulf).
+If you see that I've missed some info or have helpful resources to share, submit an issue or PR.
 
 ### License
 I'm providing this guide for free and releasing it into the public domain.
