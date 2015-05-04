@@ -4,7 +4,7 @@
 This guide is aimed at developers who are building and launching their apps largely by themselves. It can be a web app or an Android/iOS one. It will focus on the important best practices developers needs to pay attention.
 Main sections:
 1. Planning
-2. Pre-launch 
+2. Pre launch 
 3. Marketing
 4. Product development
 5. QA
@@ -18,10 +18,10 @@ The outline below will combine marketing and product deadlines into a single tim
 
 ## Who
 I'm [Ido Green](http://ido-green.appspot.com) - currently having fun as Developer Advocate at Google Chrome.
-This repo is a fork from [Adam Wulf](https://twitter.com/adamwulf) repo who did a great work over there.
+This repo is a fork from [Adam Wulf's](https://twitter.com/adamwulf) repo. He did a great work over there.
 
 ## Why
-I wanted to take it more to the monetization side of things (which I belive are critical to the sucess of any startup) and to focus on the web and new wep apps. This will be based mostly from lessons learned.
+I wanted to take it more to the monetization side of things (which I believe are critical to the success of any startup) and to focus on the web and new wep apps. This will be based mostly from lessons learned.
 
 ## What
 This guide goes through all of the necessary steps for validating, building, marketing, and launching your product, specifically focused on app dev. In particular, this guide covers:
@@ -29,7 +29,7 @@ This guide goes through all of the necessary steps for validating, building, mar
 0. Helpful books and resources
 1. Narrowing down your app idea
 2. Validating that idea
-3. Defining your *business model*
+3. Defining your *business model* - Tune it and keep optimizing
 4. Validating with a prototype
 5. Building your app
 6. Launch!
@@ -240,7 +240,7 @@ From now until launch you'll want to slowly work through this list. Your goal sh
 
 Keep in mind that some ideas will take longer to execute than others. Running an ad for instance only takes a bit of time to write the ad and push it live — it's 100% passive after that. Some ideas will take weeks before you'll know if they pay off.
 
-As an example: I started livestreaming iOS development in January, but it wasn't until late February that it started to pay off with any traffic — and suddenly in April [with multiple](http://money.cnn.com/2015/04/07/technology/watch-people-code-livecoding/) [news articles](http://www.itworld.com/article/2907129/think-different-by-live-streaming-your-coding-sessions.html). I had the least confidence in this idea, and so far it's generated more traffic than nearly anything else I've tried. This just reiterates that you should record _all_ of your ideas, and slowly iterate through each of them — don't leave any page unturned.
+As an example: I started live streaming iOS development in January, but it wasn't until late February that it started to pay off with any traffic — and suddenly in April [with multiple](http://money.cnn.com/2015/04/07/technology/watch-people-code-livecoding/) [news articles](http://www.itworld.com/article/2907129/think-different-by-live-streaming-your-coding-sessions.html). I had the least confidence in this idea, and so far it's generated more traffic than nearly anything else I've tried. This just reiterates that you should record _all_ of your ideas, and slowly iterate through each of them — don't leave any page unturned.
 
 
 # Step 4: Your Business Model
@@ -509,11 +509,3 @@ It can be a tough road, and it can sometimes take longer than we'd like, but it 
 # Contribute!
 
 This guide is open for a reason: feel free to fork and contribute your own ideas and edits back for us all to improve from. This guide is a living document: I'll continue to update it with additional info and ideas as I can, and as often as I get suggestions, feedback, and contributions from you!
-
-As indie developers, we don't have funding, a marketing department, or golden handshakes with insiders — anything we can do to help advise each other is invaluable.
-
-Reach out to me on Twitter: [@adamwulf](https://twitter.com/adamwulf)
-
-Follow Loose Leaf's story at: [http://blog.getlooseleaf.com](http://blog.getlooseleaf.com)
-
-And go [download Loose Leaf](https://itunes.apple.com/us/app/loose-leaf/id625659452?mt=8&uo=4&at=10lNUI&ct=github) and show your fellow indie developer some love! ;) 
