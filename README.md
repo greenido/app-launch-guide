@@ -1,14 +1,24 @@
-﻿# An App Launch Guide
+﻿# An (Web) App Launch Guide
 
 ## Why
-This guide is aimed at indie developers who are building and launching their iOS apps largely by themselves. The guide will walk through planning, pre-launch, marketing, product development, QA, and launch.
+This guide is aimed at developers who are building and launching their apps largely by themselves. It can be a web app or an Android/iOS one. It will focus on the important best practices developers needs to pay attention.
+Main sections:
+1. Planning
+2. Pre-launch 
+3. Marketing
+4. Product development
+5. QA
+6. Launch
 
-The goal is to combine the concrete product development schedule with an equally concrete marketing schedule so that nothing is missed.
+### The goal 
+To combine the concrete product development schedule with an equally concrete business plan and marketing schedule so that nothing is missed.
+
 
 The outline below will combine marketing and product deadlines into a single timeline, so that you can plan for both the marketing and product cycle in tandem.
 
 ## Who
-My name is [Adam Wulf](https://twitter.com/adamwulf), and I've developed mobile apps in an enterprise company, for a number of clients at a small design agency, and currently as an indie developer. I have recently launched [Loose Leaf](https://getlooseleaf.com) and am launching [Remotely](http://getremotely.com) very soon, and I launched [Here File File](http://www.macstories.net/iphone/here-file-file/) long ago.
+This is a fork from [Adam Wulf](https://twitter.com/adamwulf) repo.
+I wanted to take it more to the monetization side of things (which I belive are critical to the sucess of any venture) and to focus on the web and less on native apps.
 
 This guide is a collection of lessons learned.
 
