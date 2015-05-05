@@ -1,4 +1,4 @@
-﻿# An (Web) App Launch Guide
+# An (Web) App Launch Guide
 
 ## Why
 This guide is aimed at developers who are building and launching their apps largely by themselves. It can be a web app or an Android/iOS one. It will focus on the important best practices developers needs to pay attention.
@@ -13,12 +13,7 @@ Main sections:
 ### The goal 
 To combine the concrete product development schedule with an equally concrete business plan and marketing schedule so that nothing is missed.
 
-
-The outline below will combine marketing and product deadlines into a single timeline, so that you can plan for both the marketing and product cycle in tandem.
-
-## Who
-I'm [Ido Green](http://ido-green.appspot.com) - currently having fun as Developer Advocate at Google Chrome.
-This repo is a fork from [Adam Wulf's](https://twitter.com/adamwulf) repo. He did a great work over there.
+The outline below will combine marketing and product deadlines into a single time-line, so that you can plan for both the marketing and product cycle in tandem.
 
 ## Why
 I wanted to take it more to the monetization side of things (which I believe are critical to the success of any startup) and to focus on the web and new wep apps. This will be based mostly from lessons learned.
@@ -40,7 +35,6 @@ If you see that I've missed some info or have helpful resources to share, submit
 
 ### License
 I'm providing this guide for free and releasing it into the public domain.
-
 
 # Step 0: Read These Books
 
@@ -505,6 +499,10 @@ However!
 Shortly after launch, I buckled down and started reading, learning, and then _implementing_ a marketing plan for Loose Leaf. That was November. I pushed through the Traction spreadsheet I'd built, following everything I just wrote about in this plan, and it paid off big time in March with nearly [100k downloads in one weekend](http://blog.getlooseleaf.com/post/113969679734/100k-downloads-in-1-weekend)! And it's continued to work with another near 18k downloads over the following month!
 
 It can be a tough road, and it can sometimes take longer than we'd like, but it works. This is a marathon, not a sprint.
+
+## Who
+I'm [Ido Green](http://ido-green.appspot.com) - currently having fun as Developer Advocate at Google Chrome.
+This repo is a fork from [Adam Wulf's](https://twitter.com/adamwulf) repo. He did a great work over there.
 
 # Contribute!
 
