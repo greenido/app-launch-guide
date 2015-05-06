@@ -36,31 +36,32 @@ If you see that I've missed some info or have helpful resources to share, submit
 ### License
 I'm providing this guide for free and releasing it into the public domain.
 
-# Step 0: Read These Books
-
-Take a few evenings and read through these two books. They're incredibly helpful in explaining the incentives of press/web/buzz/etc, and they also give concrete advice and ideas for marketing your app. Out of all the references I list below, these two have influenced me the most and continue to affect how I weigh nearly every other decision and resource. Read these.
+# Step 0: Books
 
 - [ ] [Trust Me I'm Lying, by Ryan Holiday](http://amzn.to/1Adie3W)
 	- Awesome book describing the incentives of big press and how to "trade up" from smaller to larger sites
 - [ ] [Traction, by Gabriel Weinberg and Justin Mares](http://amzn.to/1DBn0Lo)
 	- Describes 19 marketing channels any start-up can use, and a process for trying them out
+	
+- [ ] [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618) — Covers the art of pitching and promoting your app on the web
+- [ ] [Getting Real by 37 Signals](https://gettingreal.37signals.com) — The smarter, faster, easier way to build a successful web application — also applies to mobile apps and you can get a free PDF version or order a physical copy.
+
 
 ### Additional Resource List
 Throughout this guide, I'll reference a number of great resources, some free and some cheap. Here are all the resources in one place:
 
-- Books
-	- [Pitch Perfect by Erica Sadun & Steve Sande](http://www.amazon.com/Pitch-Perfect-The-Promoting-Your/dp/0321917618) — Covers the art of pitching and promoting your app on the web
-	- [Getting Real by 37 Signals](https://gettingreal.37signals.com) — The smarter, faster, easier way to build a successful web application — also applies to mobile apps and you can get a free PDF version or order a physical copy.
 - Social
 	- [Buffer App](http://bufferapp.com) — Free — Easily schedule posts to your Twitter so you don’t need to baby sit it.
 	- [Mad Mimi](https://madmimi.com/short_ref/nyw) — Free/Cheap — Easily manage your email list
 	- [Vine](http://vine.co) — Free — Great way to show your development progress visually to your audience
 	- [TweetDeck](https://tweetdeck.twitter.com/) — Free — Easily stay on top of multiple lists of influencers so you can jump into the conversation when appropriate
+	
 - Tracking
 	- [Mixpanel](http://mixpanel.com) — Free — Track user behavior to determine success/fail of onboarding
 	- [Crashlytics](http://crashlytics.com) — Free — Automated crash reports and beta distribution
 	- [AppFigures](https://appfigures.com) — Free/Cheap — Automated sales and app review reports
 	- [iTunes Affiliate](https://www.apple.com/itunes/affiliates/) — Free — Lets you track (sort of) how links into the iTunes Store convert into sales. Also lets you scratch back some of the 30% that Apple takes. [It's worth it](http://awkwardhare.com/post/117029547150/use-the-itunes-affiliate-program-its-worth-it).
+	
 - Press / PR / Marketing
 	- [HARO](http://www.helpareporter.com) — Free — Daily emails from press asking for sources for their stories
 	- [Find Keywords for App Store](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective) — Free — Blog post detailing how to objectively find the right keywords for your App Store description
@@ -68,6 +69,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 	- [ASO Keyword Spreadsheet](https://docs.google.com/spreadsheets/d/1QDlCM8Q0H_MBBef-kHb74b05DRRlLye1MFdp6GF-wdc/edit?usp=sharing) — Free — Spreadsheet to help measure keywords
 	- [Google Keyword Planner](https://adwords.google.com/ko/KeywordPlanner) — Free — Validate how relevant a product category is and determine existing demand.
 	- [KickoffLabs](http://kickofflabs.com) - Free / $29/mo - Quickly setup a website to start collecting email addresses. Their [Free plan](https://app.kickofflabs.com/signup/free) is limited, but just $29 gives you lots of options.
+	
 - Podcasts
 	- [Inquisitive](https://itunes.apple.com/us/podcast/inquisitive/id909109678?mt=2&uo=4&at=10lNUI&ct=github) with Myke Hurley from Relay FM
 	- [The App Guy Podcast](https://itunes.apple.com/us/podcast/the-app-guy-podcast-the-app-guy/id771670010?mt=2&uo=4&at=10lNUI&ct=github) with Paul Kemp
